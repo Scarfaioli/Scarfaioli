@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm a computer engineer in formation, working over React.Js, Node.Js and learning about Flutter.
+I'm a computer engineer in formation.
 
 Looking for internship 👀
 
